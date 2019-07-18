@@ -1,0 +1,6 @@
+Regex to grab base64 embedded images: data:image/png;base64,.+?(?=")
+
+tile = t
+grain = e
+dust = j
+<pattern id="t" width="16" height="16" x="0" y="0" patternUnits="userSpaceOnUse"><use xlink:href="#a"/></pattern><image id="a" width="16" height="16" xlink:href="./textures/tile.png"/><pattern id="e" width="128" height="128" x="0" y="0" patternUnits="userSpaceOnUse"><use xlink:href="#b"/></pattern><image id="b" width="128" height="128" xlink:href="./textures/grain.png"/><pattern id="j" width="128" height="128" x="0" y="0" patternUnits="userSpaceOnUse"><use xlink:href="#c"/></pattern><image id="c" width="128" height="128" xlink:href="./textures/dust.png"/>
